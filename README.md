@@ -1,4 +1,4 @@
-# <FluidVid> for React.js
+# &lt;FluidVid&gt; for React.js
 
 fluidvids.js implementation for [React.js](http://facebook.github.io/react). Transforms using `@jsx` to `React.DOM`.
 
