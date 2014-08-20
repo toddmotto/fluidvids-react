@@ -14,7 +14,7 @@ var FluidVid = React.createClass({
   },
   render: function() {
     var ratio = {
-      paddingTop: this.getRatio(width, height)
+      paddingTop: this.getRatio(this.props.width, this.props.height)
     };
     return (
       <div className={ 'fluidvids' } style={ ratio }>
